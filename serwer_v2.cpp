@@ -15,7 +15,7 @@ using namespace std;
 
 #define MAX_PLAYERS 10
 #define MAX_ROOMS 10
-#define PORT 8085
+#define PORT 8080
 #define BUFOR_SIZE 50
 #define HP 5
 #define HASLA_W_PULI 3
